@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/Pq3SLfY.jpeg" width="150" height="150" style="border-radius:50%;" />
+  <img src="assets/phong8924.svg" width="100%" />
 </p>
+
 
 # 👋 Xin chào! Tôi là Nguyễn Hồng Phong
 
