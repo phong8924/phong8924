@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="assets/phong8924.svg" width="100%" />
+  <img src="phong8924/phong8924.svg" width="100%" />
 </p>
-
-
-# 👋 Xin chào! Tôi là Nguyễn Hồng Phong
 
 🎓 Sinh viên tại **Học viện Kỹ thuật Mật mã** 
 <p align="center">
