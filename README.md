@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/your_github_id?v=4](https://imgur.com/a/cgvaKGE)" width="150" height="150" style="border-radius:50%;" />
+  <img src="[[https://avatars.githubusercontent.com/u/your_github_id?v=4](https://imgur.com/a/cgvaKGE)](https://imgur.com/a/kma-LqGJzzX)" width="150" height="150" style="border-radius:50%;" />
 </p>
 
 # 👋 Xin chào! Tôi là Nguyễn Hồng Phong
