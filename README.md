@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[phong8924/phong8924.svg](https://github.com/phong8924/phong8924/blob/main/phong8924.svg)" width="100%" />
+  <img src="https://raw.githubusercontent.com/phong8924/phong8924/main/phong8924.svg" width="100%" />
 </p>
+
 
 🎓 Sinh viên tại **Học viện Kỹ thuật Mật mã** 
 <p align="center">
